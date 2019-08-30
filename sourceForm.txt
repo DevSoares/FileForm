@@ -1,0 +1,9 @@
+Name:
+ID:
+Father's Name:
+Father's ID:
+Mother's Name:
+Mother's ID:
+Main Skill:
+Born: 
+Deceased:
